@@ -1,3 +1,8 @@
 html,body{
     font-family: Inter,sarif;
 }
+
+.hero-bullet-icon{
+  width: 20px;
+  height: 20px;
+}
